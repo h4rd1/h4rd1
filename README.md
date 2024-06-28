@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rd1)](https://github.com/h4rd1/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=h4rd1)](https://github.com/h4rd1/github-readme-activity-graph)
+
 
 
 <!--
