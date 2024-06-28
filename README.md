@@ -3,7 +3,42 @@
 - При наличии гугла богоподобен...
 
 
-
+<table>
+<thead>
+<tr>
+<th align="center">S/N</th>
+<th align="left">Types</th>
+<th align="left">Styles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="left">Plastic</td>
+<td align="left"><img src="https://shields.io/badge/style-plastic-03650f?logo=appveyor&amp;style=plastic" alt="Plastic" /></td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="left">Flat-square</td>
+<td align="left"><img src="https://shields.io/badge/style-flat--square-03650f?logo=appveyor&amp;style=flat-square" alt="Flat-square" /></td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="left">Flat</td>
+<td align="left"><img src="https://shields.io/badge/style-flat-03650f?logo=appveyor&amp;style=flat" alt="Flat" /></td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="left">Social</td>
+<td align="left"><img src="https://shields.io/badge/style-social-03650f?logo=appveyor&amp;style=social" alt="Social" /></td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="left">For-the-badge</td>
+<td align="left"><img src="https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&amp;style=for-the-badge" alt="For-the-badge" /></td>
+</tr>
+</tbody>
+</table>
 
 
 <!--
