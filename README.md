@@ -6,15 +6,15 @@
 <table>
 <thead>
 <tr>
-<th align="center">S/N</th>
-<th align="left">Types</th>
-<th align="left">Styles</th>
+<th align="center">Номер</th>
+<th align="left">Тип</th>
+<th align="left">Стиль</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center">1</td>
-<td align="left">Plastic</td>
+<td align="left">RED HAT</td>
 <td align="left"><img src="https://shields.io/badge/style-plastic-03650f?logo=appveyor&amp;style=plastic" alt="Plastic" /></td>
 </tr>
 <tr>
