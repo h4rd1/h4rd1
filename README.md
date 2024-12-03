@@ -1,5 +1,5 @@
 ## Всем привет 👋
-Занимаюсь git в свое удовольствее.
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rd1)](https://github.com/h4rd1/github-readme-stats)
