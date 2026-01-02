@@ -11,6 +11,13 @@
 - **Инструменты:** Docker, Git, PostgreSQL.
 - **Дополнительно:** CI/CD, тестирование.
 
+### Изучаю
+- **Kubernetis**
+- **DOCKER**
+- **API**
+- **LINUX**
+- **PYTHON**
+
 ### Со мной можно связаться
 - Telegram: @lh4rdl
 
