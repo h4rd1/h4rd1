@@ -55,11 +55,6 @@
 ### Моя активность и достижения
 
 <!-- Динамические виджеты -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h4rd1&show_icons=true&theme=onedark)](https://github.com/h4rd1)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h4rd1)](https://git.io/streak-stats)
-
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=h4rd1&theme=onedark)
 
