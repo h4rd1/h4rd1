@@ -16,9 +16,6 @@
 
 > «Код — это не просто инструкции для машины. Это способ мыслить чётко и решать реальные проблемы.»
 
-![H4RD GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rd1)](https://github.com/h4rd1/github-readme-stats)
-
-
 
 
 
