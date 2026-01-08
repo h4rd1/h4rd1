@@ -43,7 +43,6 @@
 ### Со мной можно связаться
 
 - Telegram: [@lh4rdl](https://t.me/lh4rdl)  
-- Email: [h4rd1](kapa562@yandex.ru) 
 - GitHub: [h4rd1](https://github.com/h4rd1)  
 
 
